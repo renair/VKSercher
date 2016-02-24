@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="serch way"
+        android:id="@+id/WaySerch"
+        android:orderInCategory="100" />
+
+    <item android:title="refresh"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_launcher"
+        android:id="@+id/Refresh" />
+</menu>
